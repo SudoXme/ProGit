@@ -1,0 +1,1 @@
+I understood the concept of specical pointer HEAD. Also the feature that if I stage and commit this file in this branch then it won't be visible to me in other branch named master
