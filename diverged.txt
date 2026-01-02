@@ -1,0 +1,1 @@
+This is a new file that I have created so that the master branch has different commit history. Now test branch will be a diverged branch from the master branch not a branch in a straight line
